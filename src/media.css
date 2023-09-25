@@ -1,0 +1,12 @@
+@media(max-width:768px){
+    #navbarSupportedContent{
+        margin-top: 5% !important;
+        text-align: center;
+    }
+    .nav-item .active{
+        padding: 5px;
+    }
+    .nav-item{
+        padding: 5px;
+    }
+}
